@@ -1,0 +1,16 @@
+{
+  "name": "Confession - Rozmowy z bohaterami",
+  "short_name": "Confession",
+  "description": "Porozmawiaj z ikonicznymi bohaterami filmów i seriali",
+  "theme_color": "#ea580c",
+  "background_color": "#000000",
+  "display": "standalone",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
